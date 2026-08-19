@@ -134,10 +134,10 @@ const radios = [
 	},
 
 	{
-    nombre:"ABC 100.1",
-    descripcion:"¡La Excelencia Hecha Radio!",
-    logo:"logos/abc.png",
-    stream:"https://streaming.rcs.com.sv/proxy/abc/stream"
+    	nombre:"ABC 100.1",
+    	descripcion:"¡La Excelencia Hecha Radio!",
+    	logo:"logos/abc.png",
+    	stream:"https://streaming.rcs.com.sv/proxy/abc/stream"
 	}
 ];
 
