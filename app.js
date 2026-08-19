@@ -124,8 +124,14 @@ const radios = [
         descripcion:"The Sound of Ibiza",
         logo:"logos/ibiza.png",
         stream:"https://cdn-peer022.streaming-pro.com:8024/ibizaglobalradio.mp3"
-    }
-
+    },
+	
+	{
+    	nombre:"AURA fm",
+    	descripcion:"La energía que suena!",
+    	logo:"logos/aura.png",
+    	stream:"https://stream.miradio.in/proxy/aura/stream"
+	}
 ];
 
 const tvs = [
