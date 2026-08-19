@@ -127,14 +127,14 @@ const radios = [
     },
 	
 	{
-    	nombre:"AURA fm",
+    	nombre:"Aura",
     	descripcion:"La energía que suena!",
     	logo:"logos/aura.png",
     	stream:"https://stream.miradio.in/proxy/aura/stream"
 	},
 
 	{
-    	nombre:"ABC 100.1",
+    	nombre:"ABC",
     	descripcion:"¡La Excelencia Hecha Radio!",
     	logo:"logos/abc.png",
     	stream:"https://streaming.rcs.com.sv/proxy/abc/stream"
