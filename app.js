@@ -131,6 +131,13 @@ const radios = [
     	descripcion:"La energía que suena!",
     	logo:"logos/aura.png",
     	stream:"https://stream.miradio.in/proxy/aura/stream"
+	},
+
+	{
+    nombre:"ABC 100.1",
+    descripcion:"¡La Excelencia Hecha Radio!",
+    logo:"logos/abc.png",
+    stream:"https://streaming.rcs.com.sv/proxy/abc/stream"
 	}
 ];
 
