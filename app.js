@@ -182,7 +182,7 @@ const shows = [
         nombre:"Group Therapy",
         logo:"logos/grouptherapy.png",
         horario:"Vie • 1:00 PM",
-        youtube:"https://www.youtube.com/@anjunabeats"
+        youtube:"https://www.youtube.com/@aboveandbeyond"
     },
 
     {
