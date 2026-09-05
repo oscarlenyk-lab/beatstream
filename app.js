@@ -165,6 +165,12 @@ const tvs = [
         nombre:"Number 1 Dance",
         logo:"logos/number1dance.png",
         stream:"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+    },
+
+	{
+        nombre:"TotalMusic 00s",
+        logo:"logos/totalmusic-00s.png",
+        stream:"https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
     }
 
 ];
