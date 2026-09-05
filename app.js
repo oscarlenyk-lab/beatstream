@@ -174,9 +174,9 @@ const tvs = [
     },
 
 	{
-        nombre:"Music Box Dance",
-        logo:"logos/musicboxdance.png",
-        stream:"https://dash4.antik.sk/live/mb_dance/index.m3u8"
+        nombre:"TotalMusic Dance",
+        logo:"logos/totalmusicdance",
+        stream:"https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
     }
 
 ];
