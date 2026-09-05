@@ -169,7 +169,7 @@ const tvs = [
 
 	{
         nombre:"TotalMusic 00s",
-        logo:"logos/totalmusic-00s.png",
+        logo:"logos/totalmusicdance.png",
         stream:"https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
     },
 
