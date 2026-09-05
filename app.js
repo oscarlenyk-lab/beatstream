@@ -156,9 +156,9 @@ const tvs = [
     },
 
     {
-        nombre:"Power Dance TV",
-        logo:"logos/powerdance.png",
-        stream:"https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+        nombre:"That's 90s 00s",
+    	logo:"logos/thats-90s00s.png",
+    	stream:"https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
     },
 
     {
