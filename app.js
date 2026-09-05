@@ -176,7 +176,7 @@ const tvs = [
 	{
         nombre:"Music Box Dance",
         logo:"logos/musicboxdance.png",
-        stream:"http://88.212.15.19/live/mb_dance/index.m3u8"
+        stream:"https://dash4.antik.sk/live/mb_dance/index.m3u8"
     }
 
 ];
