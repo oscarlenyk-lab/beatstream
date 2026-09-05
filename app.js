@@ -185,7 +185,7 @@ const tvs = [
         stream:"#EXTM3U
 		#EXTINF:-1 tvg-name="Music Box Dance" group-title="Music",Music Box Dance
 		http://88.212.15.19/live/mb_dance/index.m3u8"
-    },
+    }
 
 ];
 
