@@ -155,16 +155,16 @@ const tvs = [
         stream:"https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
     },
 
+	{
+        nombre:"Number 1 Dance",
+        logo:"logos/number1dance.png",
+        stream:"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+    },
+
     {
         nombre:"That's 90s 00s",
     	logo:"logos/thats-90s00s.png",
     	stream:"https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
-    },
-
-    {
-        nombre:"Number 1 Dance",
-        logo:"logos/number1dance.png",
-        stream:"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
     },
 
 	{
