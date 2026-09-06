@@ -177,14 +177,6 @@ const tvs = [
         nombre:"TotalMusic Dance",
         logo:"logos/totalmusicdance.png",
         stream:"https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
-    },
-
-	{
-        nombre:"Total Box Dance",
-        logo:"logos/totalBoxdance.png",
-        stream:"#EXTM3U
-		#EXTINF:-1 tvg-name="Music Box Dance" group-title="Music",Music Box Dance
-		http://88.212.15.19/live/mb_dance/index.m3u8"
     }
 
 ];
