@@ -613,31 +613,6 @@ function cargarTV(tv){
 
     }
 
-}else{
-
-        UI.tvPlayer.src =
-            tv.stream;
-
-        UI.tvPlayer.play().catch(
-            error => {
-                console.log(
-                    "Autoplay bloqueado:",
-                    error
-                );
-            }
-        );
-
-    }
-
-}else{
-
-        UI.tvPlayer.src =
-        tv.stream;
-
-    }
-
-    UI.tvPlayer.play();
-
 }
 
 
