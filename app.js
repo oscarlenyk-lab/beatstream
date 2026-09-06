@@ -182,7 +182,7 @@ const tvs = [
     {
     nombre:"Music Box Dance",
     logo:"logos/musicboxdance.png",
-    stream:"https://t.freetv.fun/live/music-box-dance.m3u8"
+    stream:"http://88.212.15.19/live/mb_dance/index.m3u8"
 	}
     
 
