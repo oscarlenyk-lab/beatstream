@@ -180,10 +180,10 @@ const tvs = [
     },
 
     {
-        nombre:"Music Box Dance",
-        logo:"logos/musicboxdance.png",
-        stream:"https://t.freetv.fun/live/music-box-dance.m3u8""
-    }
+    nombre:"Music Box Dance",
+    logo:"logos/musicboxdance.png",
+    stream:"https://t.freetv.fun/live/music-box-dance.m3u8"
+	}
     
 
 ];
