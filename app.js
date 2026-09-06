@@ -187,7 +187,7 @@ const tvs = [
 
 	{
 		nombre:"Dance TV",
-		logo:""logos/dancetv.png",
+		logo:"logos/dancetv.png",
     	stream:"https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
 	}
 ];
