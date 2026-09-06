@@ -183,9 +183,13 @@ const tvs = [
     nombre:"Music Box Dance",
     logo:"logos/musicboxdance.png",
     stream:"http://88.212.15.19/live/mb_dance/index.m3u8"
-	}
-    
+	},
 
+	{
+		nombre:"Dance TV",
+		logo:""logos/dancetv.png",
+    	stream:"https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
+	}
 ];
 
 const shows = [
