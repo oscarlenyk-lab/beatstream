@@ -549,6 +549,7 @@ function cargarRadio(radio){
 function cargarTV(tv){
 
     detenerTV();
+
     detenerHLS();
 
     UI.player.pause();
@@ -556,8 +557,11 @@ function cargarTV(tv){
     cambiarLogo(tv.logo);
 
     cambiarInformacion(
+
         tv.nombre,
+
         "Live Music Television"
+
     );
 
     UI.tvPlayer.style.display = "block";
@@ -566,35 +570,12 @@ function cargarTV(tv){
 
         App.tvHls = new Hls();
 
+        App.tvHls.loadSource(
+            tv.stream
+        );
+
         App.tvHls.attachMedia(
             UI.tvPlayer
-        );
-
-        App.tvHls.on(
-            Hls.Events.MEDIA_ATTACHED,
-            ()=>{
-
-                App.tvHls.loadSource(
-                    tv.stream
-                );
-
-            }
-        );
-
-        App.tvHls.on(
-            Hls.Events.MANIFEST_PARSED,
-            ()=>{
-
-                UI.tvPlayer.play().catch(
-                    error => {
-                        console.log(
-                            "Autoplay bloqueado:",
-                            error
-                        );
-                    }
-                );
-
-            }
         );
 
     }else{
