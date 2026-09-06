@@ -182,7 +182,7 @@ const tvs = [
     {
     nombre:"Music Box Dance",
     logo:"logos/musicboxdance.png",
-    stream:"stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbdance"
+    stream:"stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbdance""
 	},
 
 	{
