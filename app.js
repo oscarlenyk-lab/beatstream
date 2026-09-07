@@ -186,6 +186,18 @@ const tvs = [
 	},
 
 	{
+    nombre:"Music Box Classic",
+    logo:"logos/musicboxclassic.png",
+    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbclassic"
+	},
+
+	{
+    nombre:"Music Box Hits",
+    logo:"logos/musicboxhits.png",
+    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbhits"
+	},
+
+	{
 		nombre:"Dance TV",
 		logo:"logos/dancetv.png",
     	stream:"https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
