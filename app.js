@@ -213,7 +213,7 @@ const tvs = [
     nombre:"MTV2",
     logo:"logos/mtv2.png",
     stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mtv2"
-	},
+	}
 ];
 
 const shows = [
