@@ -1,2 +1,2 @@
-# beatstream
+# beatz
 Global Electronic Radio Streaming
