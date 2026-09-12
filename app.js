@@ -156,12 +156,6 @@ const tvs = [
     },
 
 	{
-        nombre:"Number 1 Dance",
-        logo:"logos/number1dance.png",
-        stream:"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
-    },
-
-    {
         nombre:"That's 90s 00s",
     	logo:"logos/thats-90s00s.png",
     	stream:"https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
@@ -207,12 +201,6 @@ const tvs = [
 		nombre:"Dance TV",
 		logo:"logos/dancetv.png",
     	stream:"https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
-	},
-
-	{
-    	nombre:"MTV2",
-    	logo:"logos/mtv2.png",
-    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mtv2"
 	}
 ];
 
