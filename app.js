@@ -610,20 +610,20 @@ function cargarTV(tv){
         );
 
         App.tvHls.on(
-            Hls.Events.MANIFEST_PARSED,
-            ()=>{
-
-                UI.tvPlayer.play().catch(
-                    error => {
-                        console.log(
-                            "Autoplay bloqueado:",
-                            error
-                        );
-                    }
-                );
-
-            }
-        );
+    Hls.Events.MANIFEST_PARSED,
+    ()=>{
+        setTimeout(()=>{
+            UI.tvPlayer.play().catch(
+                error => {
+                    console.log(
+                        "Play MTV2:",
+                        error
+                    );
+                }
+            );
+        }, 1000);
+    }
+);
 
 		App.tvHls.on(
     Hls.Events.ERROR,
