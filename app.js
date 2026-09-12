@@ -167,16 +167,16 @@ const tvs = [
         stream:"https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
     },
 
-    {
-    	nombre:"Music Box Dance",
-    	logo:"logos/musicboxdance.png",
-    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbdance"
-	},
-
 	{
     	nombre:"Music Box Classic",
     	logo:"logos/musicboxclassic.png",
     	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbclassic"
+	},
+
+    {
+    	nombre:"Music Box Dance",
+    	logo:"logos/musicboxdance.png",
+    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbdance"
 	},
 
 	{
