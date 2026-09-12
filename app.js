@@ -625,6 +625,16 @@ function cargarTV(tv){
             }
         );
 
+		App.tvHls.on(
+    Hls.Events.ERROR,
+    (event, data) => {
+        console.log(
+            "HLS ERROR:",
+            data
+        );
+    }
+);
+
     }else{
 
         UI.tvPlayer.src =
