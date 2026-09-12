@@ -180,27 +180,27 @@ const tvs = [
     },
 
     {
-    nombre:"Music Box Dance",
-    logo:"logos/musicboxdance.png",
-    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbdance"
+    	nombre:"Music Box Dance",
+    	logo:"logos/musicboxdance.png",
+    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbdance"
 	},
 
 	{
-    nombre:"Music Box Classic",
-    logo:"logos/musicboxclassic.png",
-    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbclassic"
+    	nombre:"Music Box Classic",
+    	logo:"logos/musicboxclassic.png",
+    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbclassic"
 	},
 
 	{
-    nombre:"Music Box Hits",
-    logo:"logos/musicboxhits.png",
-    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbhits"
+    	nombre:"Music Box Hits",
+    	logo:"logos/musicboxhits.png",
+    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbhits"
 	},
 
 	{
-    nombre:"Music Box Sexy",
-    logo:"logos/musicboxsexy.png",
-    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbsexy"
+    	nombre:"Music Box Sexy",
+    	logo:"logos/musicboxsexy.png",
+    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mbsexy"
 	},
 
 	{
@@ -210,9 +210,9 @@ const tvs = [
 	},
 
 	{
-    nombre:"MTV2",
-    logo:"logos/mtv2.png",
-    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mtv2"
+    	nombre:"MTV2",
+    	logo:"logos/mtv2.png",
+    	stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mtv2"
 	}
 ];
 
