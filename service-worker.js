@@ -1,4 +1,4 @@
-const CACHE_NAME = "beatstream-v2";
+const CACHE_NAME = "beatz-v2";
 
 const urlsToCache = [
 
