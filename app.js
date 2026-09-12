@@ -592,11 +592,23 @@ function cargarTV(tv){
 
     if(Hls.isSupported()){
 
-        App.tvHls = new Hls();
+    App.tvHls = new Hls();
 
-        App.tvHls.attachMedia(
-            UI.tvPlayer
-        );
+    App.tvHls.on(
+        Hls.Events.FRAG_PARSING_DATA,
+        (event, data) => {
+            console.log(
+                "VIDEO:",
+                data.type,
+                "TRACKS:",
+                data.tracks
+            );
+        }
+    );
+
+    App.tvHls.attachMedia(
+        UI.tvPlayer
+    );
 
         App.tvHls.on(
             Hls.Events.MEDIA_ATTACHED,
