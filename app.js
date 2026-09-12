@@ -207,7 +207,13 @@ const tvs = [
 		nombre:"Dance TV",
 		logo:"logos/dancetv.png",
     	stream:"https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
-	}
+	},
+
+	{
+    nombre:"MTV2",
+    logo:"logos/mtv2.png",
+    stream:"https://beatz-musicbox-proxy.oscarlenyk.workers.dev/mtv2"
+	},
 ];
 
 const shows = [
