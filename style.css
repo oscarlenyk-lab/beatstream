@@ -927,7 +927,7 @@ audio{
 
 
 /*=========================
-  BEATSTREAM EQUALIZER
+  BEATZ EQUALIZER
 =========================*/
 
 .equalizer{
@@ -979,7 +979,7 @@ audio{
 
     transform-origin:bottom;
 
-    animation:beatstreamEQ .9s ease-in-out infinite;
+    animation:beatzEQ .9s ease-in-out infinite;
 
     box-shadow:
         0 0 8px rgba(139,92,246,.20);
@@ -1010,7 +1010,7 @@ audio{
 
 }
 
-@keyframes beatstreamEQ{
+@keyframes beatzEQ{
 
     0%{ transform:scaleY(.35); }
 
