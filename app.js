@@ -99,7 +99,7 @@ const App = {
 const radios = [
 
     {
-        nombre:"M2O Radio",
+        nombre:"m2o Radio",
         descripcion:"Musica Allo Stato Puro",
         logo:"logos/m2o.png",
         stream:"https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8"
@@ -144,7 +144,7 @@ const radios = [
 const tvs = [
 
     {
-        nombre:"M2O TV",
+        nombre:"m2o TV",
         logo:"logos/m2o.png",
         stream:"https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
     },
